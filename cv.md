@@ -1,4 +1,4 @@
-![Photo](\project\cvphoto.png)
+![Photo](E:\project\cvphoto.png)
 # **Kravtsov Kirill**
 ## **Contacts**
 * **Location:** Murmansk, Russia>
