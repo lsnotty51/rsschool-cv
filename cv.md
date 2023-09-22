@@ -1,6 +1,7 @@
-# <**Kravtsov Kirill**>
-## <**Contacts**>
-* <**Location:** Murmansk, Russia>
-* <**Phone:** +7-964-684-71-72>
-* <**Email:** kravtsovko@gmail.com>
-* <**GitHub:** lsnotty51>
+! [](C:\Users\kravt\Desktop\cvphoto.jpg)
+# **Kravtsov Kirill**
+## **Contacts**
+* **Location:** Murmansk, Russia>
+* **Phone:** +7-964-684-71-72>
+* **Email:** kravtsovko@gmail.com>
+* **GitHub:** lsnotty51>
